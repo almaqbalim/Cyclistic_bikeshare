@@ -11,4 +11,4 @@ st.set_page_config(page_title="Cyclistic Bike-Share Report", layout="wide")
 sns.set_style("whitegrid")
 plt.rcParams["axes.facecolor"] = "white"
 plt.rcParams["figure.facecolor"] = "white"
-
+st.title("🚲 Cyclistic Bike-Share Report")
